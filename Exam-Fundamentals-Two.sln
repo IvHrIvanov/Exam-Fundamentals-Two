@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Secret Chat", "01. Secret Chat\01. Secret Chat.csproj", "{9F8E43E6-7C37-4775-9D51-91E9D10F9BC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Mirror Words", "02. Mirror Words\02. Mirror Words.csproj", "{44A30EC9-8286-45CB-992E-D720F7F7B1E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F8E43E6-7C37-4775-9D51-91E9D10F9BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F8E43E6-7C37-4775-9D51-91E9D10F9BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F8E43E6-7C37-4775-9D51-91E9D10F9BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A30EC9-8286-45CB-992E-D720F7F7B1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A30EC9-8286-45CB-992E-D720F7F7B1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A30EC9-8286-45CB-992E-D720F7F7B1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A30EC9-8286-45CB-992E-D720F7F7B1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
